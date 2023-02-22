@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naofel-eal&label=Profile%20views&color=0e75b6&style=flat" alt="naofel-eal" /> </p>
 
-- 🔭 I’m currently working on [a Cloud application (frontend and backend)](https://github.com/Naofel-eal/ncloud-frontend)
+- 🎓 I'm in 4<sup>th</sup> year of engineer school with major in **Software Engineering** at [ESIREM](https://esirem.u-bourgogne.fr)
+
+- 🔭 I’m currently working on [an Artifical Intelligence which detects enemys on a game](https://github.com/Naofel-eal/Fortnite_aimbot)
 
 - 🌱 I’m currently learning **Angular 15**
 
