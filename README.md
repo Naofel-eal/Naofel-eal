@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular 15**
 
-- 📫 How to reach me **naofel.eal@gmail.com**
+- 📫 How to reach me: **naofel.eal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,3 +42,9 @@
 	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
  </p>
+<h3 align="left">My Latest Project</h3>
+
+#### [AI Aimbot for Fortnite](https://github.com/Naofel-eal/Fortnite_aimbot) (Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>)
+</h4>
+
+![Demo of detection](https://github.com/Naofel-eal/Fortnite_aimbot/blob/main/workspace/test/video/fortnite_detection.gif)
