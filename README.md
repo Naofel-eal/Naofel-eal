@@ -43,7 +43,7 @@
  </p>
 <h3 align="left">My Latest Project</h3>
 
-#### [AI Aimbot for Fortnite](https://github.com/Naofel-eal/Fortnite_aimbot) (Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>)
+#### [Social network](https://github.com/Naofel-eal/Bula) (Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="20" height="20"/>)
 </h4>
 
-![Demo of detection](https://github.com/Naofel-eal/Fortnite_aimbot/blob/main/workspace/test/video/fortnite_detection.gif)
+![Preview](https://github.com/Naofel-eal/Bula/blob/main/preview/research.png)
