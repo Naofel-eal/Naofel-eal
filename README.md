@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [an Artifical Intelligence which detects enemys on a game](https://github.com/Naofel-eal/Fortnite_aimbot)
 
-- 🌱 I’m currently learning **Angular 15**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 📫 How to reach me: **naofel.eal@gmail.com**
 
@@ -45,7 +45,7 @@
  </p>
 <h3 align="left">My Latest Project</h3>
 
-#### [Social network](https://github.com/Naofel-eal/Bula) (Angular <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="20" height="20"/>)
+#### [Blur AI](https://github.com/Naofel-eal/Computer-vision-project)
 </h4>
 
-![Preview](https://github.com/Naofel-eal/Bula/blob/main/preview/research.png)
+![Preview](https://github.com/Naofel-eal/Computer-vision-project/blob/main/resources/demo.gif)
