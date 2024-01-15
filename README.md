@@ -5,7 +5,7 @@
 
 - 🎓 I'm in 5<sup>th</sup> year of engineer school with major in **Software Engineering** at [ESIREM](https://esirem.u-bourgogne.fr)
 
-- 🔭 I’m currently working on [an Artifical Intelligence which detects enemys on a game](https://github.com/Naofel-eal/Fortnite_aimbot)
+- 🔭 I’m currently working on a Motus game developed in CLean Architecture !
 
 - 🌱 I’m currently learning **Clean Architecture**
 
