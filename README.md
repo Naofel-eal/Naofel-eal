@@ -1,5 +1,5 @@
 <h1 align="center">I am Naofel EL ALOUANI</h1>
-<h3 align="center">A French engineer passionate about development</h3>
+<h3 align="center">A French engineer passionate about software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naofel-eal&label=Profile%20views&color=0e75b6&style=flat" alt="naofel-eal" /> </p>
 
