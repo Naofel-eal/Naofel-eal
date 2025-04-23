@@ -1,11 +1,11 @@
 <h1 align="center">I am Naofel EL ALOUANI</h1>
-<h3 align="center">A French student passionate about development</h3>
+<h3 align="center">A French engineer passionate about development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naofel-eal&label=Profile%20views&color=0e75b6&style=flat" alt="naofel-eal" /> </p>
 
-- 🎓 I'm in 5<sup>th</sup> year of engineer school with major in **Software Engineering** at [ESIREM](https://esirem.u-bourgogne.fr)
+- 🎓 I'm Fullstack Software Engineer at TotalEnergies
 
-- 🔭 I’m currently working on a Motus game developed in CLean Architecture !
+- 🔭 I’m currently working on an IntelliJ plugin to facilitate hexgonal architecture !
 
 - 🌱 I’m currently learning **Clean Architecture**
 
